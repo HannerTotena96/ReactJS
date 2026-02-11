@@ -1,5 +1,5 @@
 function CartWidget() {
-  const itemsCount = 2 // luego lo conectamos a estado/contexto
+  const itemsCount = 5 
 
   return (
     <button type="button" className="btn btn-outline-light position-relative">
